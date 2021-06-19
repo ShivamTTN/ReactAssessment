@@ -82,7 +82,7 @@
     align-content: center;
     border: 1px solid gray;
 }
-button{
+.butSubmit{
     border: none;
     padding: 15px 20px;
     font-weight: lighter;
