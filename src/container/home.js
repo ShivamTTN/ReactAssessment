@@ -196,7 +196,7 @@ const Home = () => {
           />
         </div>
         <div className={classes.inputRow}>
-          <label>Students :</label>
+          <label>Students Count:</label>
           <input
             type="text"
             placeholder="10"
@@ -218,7 +218,7 @@ const Home = () => {
           </select>
         </div>
         <div className={classes.inputRow}>
-          <label>Teachers :</label>
+          <label>Teachers Count:</label>
           <input
             type="text"
             placeholder="5"
@@ -284,7 +284,7 @@ const Home = () => {
             />
           </div>
           <div className={classes.inputRow}>
-            <label>Students :</label>
+            <label>Students Count :</label>
             <input
               type="text"
               placeholder="10"
@@ -306,7 +306,7 @@ const Home = () => {
             </select>
           </div>
           <div className={classes.inputRow}>
-            <label>Teachers :</label>
+            <label>Teachers Count :</label>
             <input
               type="text"
               placeholder="5"
@@ -373,7 +373,7 @@ const Home = () => {
             />
           </div>
           <div className={classes.inputRow}>
-            <label>Students :</label>
+            <label>Students Count:</label>
             <input
               type="text"
               placeholder="10"
@@ -395,7 +395,7 @@ const Home = () => {
             </select>
           </div>
           <div className={classes.inputRow}>
-            <label>Teachers :</label>
+            <label>Teachers Count:</label>
             <input
               type="text"
               placeholder="5"
@@ -454,7 +454,7 @@ const Home = () => {
             />
           </div>
           <div className={classes.inputRow}>
-            <label>Students :</label>
+            <label>Students Count:</label>
             <input
               type="text"
               placeholder="10"
@@ -476,7 +476,7 @@ const Home = () => {
             </select>
           </div>
           <div className={classes.inputRow}>
-            <label>Teachers :</label>
+            <label>Teachers Count:</label>
             <input
               type="text"
               placeholder="5"
